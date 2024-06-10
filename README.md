@@ -1,2 +1,2 @@
 # DSA-python
-python linked list implementation
+python DSA implementation
